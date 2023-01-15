@@ -21,6 +21,14 @@ Utilizado para desenvolver o sistema o Desing DDD.
 
 Rodando os testes implementados
 
+Para rodar os testes do backend, entrar no projeto Test, entrar em uma das classes de teste. Pode rodas os testes clicando com o botão direito do mouse e clicando em "Run Tests".
+
+
+![image](https://user-images.githubusercontent.com/122547975/212564278-d17a2856-cb2a-475d-99b5-48aa3ad7b513.png)
+
+
+Assim, os testes são executados.
+
 ![image](https://user-images.githubusercontent.com/122547975/212552666-e572c95c-a3a4-4cb5-bcb2-690a68c69887.png)
 
     
