@@ -4937,11 +4937,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\Sorteio\\sorteio-backend\\Sorteio\\Repositorio\\Repository.csproj",
+      "projectUniqueName": "C:\\projetos\\Teste\\Sorteio\\Repositorio\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "C:\\projetos\\Sorteio\\sorteio-backend\\Sorteio\\Repositorio\\Repository.csproj",
+      "projectPath": "C:\\projetos\\Teste\\Sorteio\\Repositorio\\Repository.csproj",
       "packagesPath": "C:\\Users\\bsaba\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\Sorteio\\sorteio-backend\\Sorteio\\Repositorio\\obj\\",
+      "outputPath": "C:\\projetos\\Teste\\Sorteio\\Repositorio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bsaba\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4958,8 +4958,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\projetos\\Sorteio\\sorteio-backend\\Sorteio\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\projetos\\Sorteio\\sorteio-backend\\Sorteio\\Domain\\Domain.csproj"
+            "C:\\projetos\\Teste\\Sorteio\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\projetos\\Teste\\Sorteio\\Domain\\Domain.csproj"
             }
           }
         }

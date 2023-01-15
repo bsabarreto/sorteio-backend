@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mOfjpTL5KthJ+oVJq6bmN77scNE3gomMD2LotnTL8HAInB02djsjAKz8gZL2+X/RVZ9OL6gW7TCoZJtGK6Kalw==",
+  "dgSpecHash": "0gLZocFes8LH4ovO5NJS9EjXOAnXfbH5oyDAfMs6uq3+9PvQNI38+HqD60ZZm5IbZcnmaLfbj6+fMwIh6VIBoA==",
   "success": true,
-  "projectFilePath": "C:\\projetos\\Sorteio\\sorteio-backend\\Sorteio\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\projetos\\Teste\\Sorteio\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

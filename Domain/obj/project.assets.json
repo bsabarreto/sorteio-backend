@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\Sorteio\\sorteio-backend\\Sorteio\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\projetos\\Teste\\Sorteio\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\projetos\\Sorteio\\sorteio-backend\\Sorteio\\Domain\\Domain.csproj",
+      "projectPath": "C:\\projetos\\Teste\\Sorteio\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\bsaba\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\Sorteio\\sorteio-backend\\Sorteio\\Domain\\obj\\",
+      "outputPath": "C:\\projetos\\Teste\\Sorteio\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bsaba\\AppData\\Roaming\\NuGet\\NuGet.Config",

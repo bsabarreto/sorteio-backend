@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oCSuqEj2xjotoTXnsueWwGO2Nrtsg1t2VrYNnn0ekYW0H8D9A7MSPPUFDu3kR1doaVn+HtLGeWN5ISimOPZFEw==",
+  "dgSpecHash": "Na1L74IKNWE/YcLA6RMmSvnyM/9HqMinmaLSxdFHqRMdYRuujIawkwxspk8JCJ1rte/7DmCe4Nwbuu6ePzdK7w==",
   "success": true,
-  "projectFilePath": "C:\\projetos\\Sorteio\\sorteio-backend\\Sorteio\\Test\\Test.csproj",
+  "projectFilePath": "C:\\projetos\\Teste\\Sorteio\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bsaba\\.nuget\\packages\\closedxml\\0.100.3\\closedxml.0.100.3.nupkg.sha512",
     "C:\\Users\\bsaba\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",

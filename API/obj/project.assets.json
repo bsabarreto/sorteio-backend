@@ -5272,11 +5272,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\Sorteio\\sorteio-backend\\Sorteio\\API\\API.csproj",
+      "projectUniqueName": "C:\\projetos\\Teste\\Sorteio\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\projetos\\Sorteio\\sorteio-backend\\Sorteio\\API\\API.csproj",
+      "projectPath": "C:\\projetos\\Teste\\Sorteio\\API\\API.csproj",
       "packagesPath": "C:\\Users\\bsaba\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\Sorteio\\sorteio-backend\\Sorteio\\API\\obj\\",
+      "outputPath": "C:\\projetos\\Teste\\Sorteio\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bsaba\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5293,11 +5293,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\projetos\\Sorteio\\sorteio-backend\\Sorteio\\Business\\Business.csproj": {
-              "projectPath": "C:\\projetos\\Sorteio\\sorteio-backend\\Sorteio\\Business\\Business.csproj"
+            "C:\\projetos\\Teste\\Sorteio\\Business\\Business.csproj": {
+              "projectPath": "C:\\projetos\\Teste\\Sorteio\\Business\\Business.csproj"
             },
-            "C:\\projetos\\Sorteio\\sorteio-backend\\Sorteio\\CrossCuting\\CrossCuting.csproj": {
-              "projectPath": "C:\\projetos\\Sorteio\\sorteio-backend\\Sorteio\\CrossCuting\\CrossCuting.csproj"
+            "C:\\projetos\\Teste\\Sorteio\\CrossCuting\\CrossCuting.csproj": {
+              "projectPath": "C:\\projetos\\Teste\\Sorteio\\CrossCuting\\CrossCuting.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PcVqdiQHPaL1t67mxam7e0da9M81iOo43dTdmkBiBbYJU71W0hg3cVgN5kkB19EnZt4Ek8KWDSQ1bsh/O5iT1w==",
+  "dgSpecHash": "eRqvS1WbbiGRGMRQkaApSb3RPJqBlEywdtvogf8Woy5j8ruoUy/CEThDSbNphb7kIwHDf4uTxjpENe2/6IntBw==",
   "success": true,
-  "projectFilePath": "C:\\projetos\\Sorteio\\sorteio-backend\\Sorteio\\API\\API.csproj",
+  "projectFilePath": "C:\\projetos\\Teste\\Sorteio\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bsaba\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\bsaba\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
