@@ -16,7 +16,7 @@ Utilizado para desenvolver o sistema o Desing DDD.
     
     Implementado o swagger para ficar mais fácil de testarmos a API.
     
-    ![image](https://user-images.githubusercontent.com/122547975/212552476-8e5dab44-f071-4e79-8d21-980d9ab395c8.png)
+![image](https://user-images.githubusercontent.com/122547975/212552733-c2b3cc72-dca9-4354-800c-5a1c50e6e43e.png)
 
 
 Rodando os testes implementados
