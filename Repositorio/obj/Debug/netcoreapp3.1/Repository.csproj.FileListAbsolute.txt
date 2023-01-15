@@ -11,3 +11,16 @@ C:\projetos\Sorteio\sorteio-backend\Sorteio\Repositorio\obj\Debug\netcoreapp3.1\
 C:\projetos\Sorteio\sorteio-backend\Sorteio\Repositorio\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
 C:\projetos\Sorteio\sorteio-backend\Sorteio\Repositorio\obj\Debug\netcoreapp3.1\Repository.dll
 C:\projetos\Sorteio\sorteio-backend\Sorteio\Repositorio\obj\Debug\netcoreapp3.1\Repository.pdb
+C:\projetos\Teste\Sorteio\Repositorio\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\projetos\Teste\Sorteio\Repositorio\bin\Debug\netcoreapp3.1\Repository.dll
+C:\projetos\Teste\Sorteio\Repositorio\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\projetos\Teste\Sorteio\Repositorio\bin\Debug\netcoreapp3.1\Domain.dll
+C:\projetos\Teste\Sorteio\Repositorio\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\projetos\Teste\Sorteio\Repositorio\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+C:\projetos\Teste\Sorteio\Repositorio\obj\Debug\netcoreapp3.1\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Teste\Sorteio\Repositorio\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\projetos\Teste\Sorteio\Repositorio\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\projetos\Teste\Sorteio\Repositorio\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\projetos\Teste\Sorteio\Repositorio\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\projetos\Teste\Sorteio\Repositorio\obj\Debug\netcoreapp3.1\Repository.dll
+C:\projetos\Teste\Sorteio\Repositorio\obj\Debug\netcoreapp3.1\Repository.pdb

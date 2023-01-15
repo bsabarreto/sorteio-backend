@@ -25,8 +25,9 @@ namespace Business
 
         private Pessoa SelecionarVencedor(List<Pessoa> listaPessoas)
         {
-            var rnd = new Random();
-            Pessoa pessoaSelecionada = listaPessoas[rnd.Next(listaPessoas.Count)];
+            Random rand = new Random();
+            int aleatorio = rand.Next(0, listaPessoas.Count);
+            Pessoa pessoaSelecionada = listaPessoas.ElementAt(aleatorio);
             return pessoaSelecionada;
         }
         private List<Pessoa> SelecionarVencedores(List<Pessoa> listaPessoas)
@@ -34,32 +35,16 @@ namespace Business
             if (listaPessoas.Count <= 3) { return listaPessoas; }
 
             List<Pessoa> listaGanhadoresGeral = new List<Pessoa>();
-            int numero;
-            int[] num = new int[3];
-            Random r = new Random();
+
 
             for (int i = 0; i < 3; i++)
             {
-                numero = r.Next(listaPessoas.Count);
-                for (int j = 0; j < 3; j++)
-                {
-                    if (numero == num[j] && j != i)
-                    {
-                        numero = r.Next(listaPessoas.Count) ;
-                    }
-                    else
-                    {
-                        num[i] = numero;
-                    }
-                }
+                Random rand = new Random();
+                int aleatorio = rand.Next(0, listaPessoas.Count);
+                Pessoa ganhador = listaPessoas.ElementAt(aleatorio);
+                listaGanhadoresGeral.Add(ganhador);
+                listaPessoas.RemoveAt(aleatorio);
             }
-            Pessoa ganhadorUm = listaPessoas.ElementAt(num[0]);
-            Pessoa ganhadorDois = listaPessoas.ElementAt(num[1]);
-            Pessoa ganhadorTres = listaPessoas.ElementAt(num[2]);
-
-            listaGanhadoresGeral.Add(ganhadorUm);
-            listaGanhadoresGeral.Add(ganhadorDois);
-            listaGanhadoresGeral.Add(ganhadorTres);
 
             return listaGanhadoresGeral;
 

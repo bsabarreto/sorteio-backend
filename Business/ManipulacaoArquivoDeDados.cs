@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 
 namespace Business
 {
@@ -36,25 +37,32 @@ namespace Business
                 {
                     case EnumCota.GERAL: 
                         if(lista.Geral == null) 
-                        lista.Geral = new List<Pessoa> { item } ; 
+                        lista.Geral = new List<Pessoa> { EsconderCPF(item) } ; 
                             else
-                                lista.Geral.Add(item); break;
+                                lista.Geral.Add(EsconderCPF(item)); break;
 
                     case EnumCota.DEFICIENTE_FISICO:
                         if (lista.DeficienteFisico == null && !String.IsNullOrEmpty(item.CID))
-                            lista.DeficienteFisico = new List<Pessoa> { item };
-                                else if(!String.IsNullOrEmpty(item.CID))lista.DeficienteFisico.Add(item); break;
+                            lista.DeficienteFisico = new List<Pessoa> { EsconderCPF(item) };
+                                else if(!String.IsNullOrEmpty(item.CID))lista.DeficienteFisico.Add(EsconderCPF(item)); break;
 
                     case EnumCota.IDOSO:
                         if (lista.Idosos == null && item.Idade > 60)
-                            lista.Idosos = new List<Pessoa> { item } ;
-                                else if (item.Idade > 60) lista.Idosos.Add(item);break;
+                            lista.Idosos = new List<Pessoa> { EsconderCPF(item) } ;
+                                else if (item.Idade > 60) lista.Idosos.Add(EsconderCPF(item));break;
 
                     default: break;
                 }
             }
             lista.NumeroDeParticipantes = lista.Geral.Count + lista.Idosos.Count + lista.DeficienteFisico.Count;
             return lista;
+        }
+
+        private Pessoa EsconderCPF(Pessoa pessoa)
+        {
+            pessoa.CPF = Regex.Replace(pessoa.CPF, @"(.\d{3}.\d{3}-\d{1})", ".XXX.XXX.XXX-X");
+
+            return pessoa;
         }
     }
 }
