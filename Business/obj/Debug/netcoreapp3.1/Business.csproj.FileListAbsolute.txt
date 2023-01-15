@@ -1,0 +1,15 @@
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Business\bin\Debug\netcoreapp3.1\Domain.dll
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Business\bin\Debug\netcoreapp3.1\Repository.dll
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Business\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Business\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Business\obj\Debug\netcoreapp3.1\Business.pdb

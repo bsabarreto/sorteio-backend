@@ -1,0 +1,10 @@
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\projetos\Sorteio\sorteio-backend\Sorteio\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
